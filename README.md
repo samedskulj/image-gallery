@@ -5,3 +5,6 @@ Project is made only using Vanilla JS, HTML and CSS
 Simply click left mouse button on the image
 
 [PREVIEW](https://samedskulj.github.io/Fluid-Image-Pop-Up/)
+
+# Deployment
+This site is deployed using GitHub Pages.
